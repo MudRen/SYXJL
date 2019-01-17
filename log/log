@@ -1,0 +1,24 @@
+[Dec 26 15:59:30]/include/net/httpd.h line 14: parse error before  "error" : "Bad Comm
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 127: Warning: Unused local variable 'msg' before the end of line
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 127: Warning: Unused local variable 'msg_a' before the end of line
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 127: Warning: Unused local variable 'msg_b' before the end of line
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 127: Warning: Unused local variable 'i' before the end of line
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 148: Warning: Unused local variable 'id' before the end of line
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 279: Warning: Unused local variable 'name' before the end of line
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 279: Warning: Unused local variable 'id' before the end of line
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 279: Warning: Unused local variable 'money' before the end of line
+[Dec 26 15:59:30]/adm/daemons/toptend.c line 354: Warning: Unused local variable 'str1' before the end of line
+[Dec 26 15:59:32]/adm/daemons/convertd.c line 11: Warning: Unknown #pragma, ignored. before #pragma save_binary
+[Dec 26 15:59:32]/adm/daemons/convertd.c line 12: Warning: Unknown #pragma, ignored. before 
+[Dec 26 16:18:39]/kungfu/skill/wuji-shengong/mihun.c line 52: Warning: Unused local variable 'ob' before the end of line
+[Dec 26 16:18:39]/kungfu/skill/wuji-shengong/mihun.c line 52: Warning: Unused local variable 'i' before the end of line
+[Dec 26 16:20:16]/d/wugongzhen/fu-woshi.c line 64: Warning: Unused local variable 'me' before the end of line
+[Dec 26 17:43:58]/adm/daemons/story/xingxiu.c line 35: Warning: Return type doesn't match prototype ( string vs int ) before 
+[Dec 26 17:46:13]/d/shaolin/zhonglou1.c line 149: Warning: Unused local variable 'me' before 
+[Dec 26 18:05:32]/kungfu/skill/eff_msg.h line 2: Warning: /* found in comment. before   ‘⁄œ‡”¶µƒperform¿Ôº
+[Dec 26 18:05:32]/kungfu/skill/eff_msg.h line 151: parse error before include "/kungfu/ski
+[Dec 26 18:07:59]/d/heimuya/xingxingtan.c line 157: Warning: Unused local variable 'dir' before the end of line
+[Dec 26 18:14:34]/kungfu/skill/taiji-jian/jielidali.c line 70: Warning: Unused local variable 'weapon' before 
+[Dec 26 18:18:03]/d/xiangyang/npc/mafu.c line 60: Warning: Unused local variable 'myenv' before the end of line
+[Dec 26 18:35:28]/d/city2/zhuang3.c line 38: Warning: Unused local variable 'book' before 
+[Jan 16 16:29:39]adm/daemons/emaild.c line 233: Missing name for function argument

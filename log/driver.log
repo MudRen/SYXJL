@@ -1,0 +1,384 @@
+Tue Dec 26 15:59:30 CST 2000
+using config file: config.cfg
+----------------------------------------------------------------------------
+ËæÔµÏ´½£Â¼ (MudOS v22.1b22) starting up on Linux - Tue Dec 26 15:59:30 2000
+
+
+Can't find "./driver", ignoring old binaries.
+Try invoking the driver using the full pathname.
+Connection to address server (localhost 6669) refused.
+]simul_efun loaded successfully.
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5555.
+Accepting connections on port 4000.
+get_user_data: read on fd 12
+System Error: get_user_data: read:Connection reset by peer
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+³ÌÊ½: u/bsd/snow_pao.c:346
+Îï¼ş: /u/bsd/snow_pao#23 ("[1;37mÑ©°×½ğÅÛ[2;37;0m")
+º¯Êıºô½Ğ»ØËİ:
+auto_save()               adm/daemons/autosaved.c:53
+save()                    clone/user/user.c:50
+save_autoload()           feature/autoload.c:35
+query_autoload()          u/bsd/snow_pao.c:346
+
+Ö´ĞĞÊ±¶Î´íÎó: *Value being indexed is zero.
+³ÌÊ½: adm/daemons/network/services/rwho_q.c:50
+Îï¼ş: /adm/daemons/network/services/rwho_q
+º¯Êıºô½Ğ»ØËİ:
+read_callback()           adm/daemons/network/dns_master.c:242
+incoming_request()        adm/daemons/network/services/rwho_q.c:50
+
+Ö´ĞĞÊ±¶Î´íÎó: *Value being indexed is zero.
+³ÌÊ½: adm/daemons/network/services/rwho_q.c:50
+Îï¼ş: /adm/daemons/network/services/rwho_q
+º¯Êıºô½Ğ»ØËİ:
+read_callback()           adm/daemons/network/dns_master.c:242
+incoming_request()        adm/daemons/network/services/rwho_q.c:50
+
+Ö´ĞĞÊ±¶Î´íÎó: *Value being indexed is zero.
+³ÌÊ½: adm/daemons/network/services/rwho_q.c:50
+Îï¼ş: /adm/daemons/network/services/rwho_q
+º¯Êıºô½Ğ»ØËİ:
+read_callback()           adm/daemons/network/dns_master.c:242
+incoming_request()        adm/daemons/network/services/rwho_q.c:50
+
+Ö´ĞĞÊ±¶Î´íÎó: *Value being indexed is zero.
+³ÌÊ½: adm/daemons/network/services/rwho_q.c:50
+Îï¼ş: /adm/daemons/network/services/rwho_q
+º¯Êıºô½Ğ»ØËİ:
+read_callback()           adm/daemons/network/dns_master.c:242
+incoming_request()        adm/daemons/network/services/rwho_q.c:50
+
+Ö´ĞĞÊ±¶Î´íÎó: *Value being indexed is zero.
+³ÌÊ½: adm/daemons/network/services/rwho_q.c:50
+Îï¼ş: /adm/daemons/network/services/rwho_q
+º¯Êıºô½Ğ»ØËİ:
+read_callback()           adm/daemons/network/dns_master.c:242
+incoming_request()        adm/daemons/network/services/rwho_q.c:50
+
+Ö´ĞĞÊ±¶Î´íÎó: *Value being indexed is zero.
+³ÌÊ½: adm/daemons/network/services/rwho_q.c:50
+Îï¼ş: /adm/daemons/network/services/rwho_q
+º¯Êıºô½Ğ»ØËİ:
+read_callback()           adm/daemons/network/dns_master.c:242
+incoming_request()        adm/daemons/network/services/rwho_q.c:50
+
+get_user_data: read on fd 21
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to capitalize()
+Expected: string Got: 0.
+³ÌÊ½: cmds/usr/top.c:30
+Îï¼ş: /cmds/usr/top
+º¯Êıºô½Ğ»ØËİ:
+command_hook()            feature/command.c:58
+main()                    cmds/usr/top.c:30
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to capitalize()
+Expected: string Got: 0.
+³ÌÊ½: cmds/usr/top.c:30
+Îï¼ş: /cmds/usr/top
+º¯Êıºô½Ğ»ØËİ:
+command_hook()            feature/command.c:58
+main()                    cmds/usr/top.c:30
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to capitalize()
+Expected: string Got: 0.
+³ÌÊ½: cmds/usr/top.c:30
+Îï¼ş: /cmds/usr/top
+º¯Êıºô½Ğ»ØËİ:
+command_hook()            feature/command.c:58
+main()                    cmds/usr/top.c:30
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to capitalize()
+Expected: string Got: 0.
+³ÌÊ½: cmds/usr/top.c:30
+Îï¼ş: /cmds/usr/top
+º¯Êıºô½Ğ»ØËİ:
+command_hook()            feature/command.c:58
+main()                    cmds/usr/top.c:30
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to capitalize()
+Expected: string Got: 0.
+³ÌÊ½: cmds/usr/top.c:30
+Îï¼ş: /cmds/usr/top
+º¯Êıºô½Ğ»ØËİ:
+command_hook()            feature/command.c:58
+main()                    cmds/usr/top.c:30
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to capitalize()
+Expected: string Got: 0.
+³ÌÊ½: cmds/usr/top.c:30
+Îï¼ş: /cmds/usr/top
+º¯Êıºô½Ğ»ØËİ:
+command_hook()            feature/command.c:58
+main()                    cmds/usr/top.c:30
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to capitalize()
+Expected: string Got: 0.
+³ÌÊ½: cmds/usr/top.c:30
+Îï¼ş: /cmds/usr/top
+º¯Êıºô½Ğ»ØËİ:
+command_hook()            feature/command.c:58
+main()                    cmds/usr/top.c:30
+
+get_user_data: read on fd 20
+System Error: get_user_data: read:Connection reset by peer
+get_user_data: read on fd 10
+System Error: get_user_data: read:Broken pipe
+Ö´ĞĞÊ±¶Î´íÎó: *set_leader: Cannot set this_object() as leader.
+³ÌÊ½: feature/team.c:12
+Îï¼ş: /u/bsd/quest/yingzhua2#3156 ("´óÄÚÓ¥×¦")
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:99
+chat()                    inherit/char/npc.c:206
+<function>()              (<function>):0
+random_move()             inherit/char/npc.c:234
+command_hook()            feature/command.c:58
+main()                    cmds/std/go.c:115
+valid_leave()             d/city2/xiyuan.c:79
+set_leader()              feature/team.c:12
+
+Heart beat in /u/bsd/quest/yingzhua2#3156 turned off.
+Ö´ĞĞÊ±¶Î´íÎó: *set_leader: Cannot set this_object() as leader.
+³ÌÊ½: feature/team.c:12
+Îï¼ş: /d/huanhua/npc/yiren#3093 ("ÈÎÒ×")
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:99
+chat()                    inherit/char/npc.c:206
+<function>()              (<function>):0
+random_move()             inherit/char/npc.c:234
+command_hook()            feature/command.c:58
+main()                    cmds/std/go.c:115
+valid_leave()             d/city2/xiyuan.c:79
+set_leader()              feature/team.c:12
+
+Heart beat in /d/huanhua/npc/yiren#3093 turned off.
+get_user_data: read on fd 22
+System Error: get_user_data: read:Connection reset by peer
+Ö´ĞĞÊ±¶Î´íÎó: *Array index out of bounds.
+³ÌÊ½: inherit/char/npc.c:200
+Îï¼ş: /d/quanzhen/npc/muren#3816 ("Ä¾ÈË")
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:99
+chat()                    inherit/char/npc.c:200
+
+Heart beat in /d/quanzhen/npc/muren#3816 turned off.
+Ö´ĞĞÊ±¶Î´íÎó: *Array index out of bounds.
+³ÌÊ½: inherit/char/npc.c:200
+Îï¼ş: /d/quanzhen/npc/muren#3817 ("Ä¾ÈË")
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:99
+chat()                    inherit/char/npc.c:200
+
+Heart beat in /d/quanzhen/npc/muren#3817 turned off.
+Ö´ĞĞÊ±¶Î´íÎó: *Array index out of bounds.
+³ÌÊ½: inherit/char/npc.c:200
+Îï¼ş: /d/quanzhen/npc/muren#3818 ("Ä¾ÈË")
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:99
+chat()                    inherit/char/npc.c:200
+
+Heart beat in /d/quanzhen/npc/muren#3818 turned off.
+get_user_data: read on fd 29
+System Error: get_user_data: read:Connection reset by peer
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+confirm_relogin()         adm/daemons/logind.c:475
+reconnect()               adm/daemons/logind.c:956
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:112
+heal_up()                 feature/damage.c:244
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Heart beat in /clone/user/user#3259 turned off.
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+confirm_relogin()         adm/daemons/logind.c:475
+reconnect()               adm/daemons/logind.c:956
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:112
+heal_up()                 feature/damage.c:244
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Heart beat in /clone/user/user#3259 turned off.
+get_user_data: read on fd 21
+System Error: get_user_data: read:Broken pipe
+Ö´ĞĞÊ±¶Î´íÎó: *Error in loading object '/kungfu/skill/taiji-quan/zhensd'
+³ÌÊ½: inherit/skill/skill.c:193
+Îï¼ş: /kungfu/skill/taiji-quan
+º¯Êıºô½Ğ»ØËİ:
+command_hook()            feature/command.c:58
+main()                    cmds/skill/perform.c:126
+perform_action()          inherit/skill/skill.c:193
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+get_passwd()              adm/daemons/logind.c:408
+reconnect()               adm/daemons/logind.c:956
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:112
+heal_up()                 feature/damage.c:244
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Heart beat in /clone/user/user#3259 turned off.
+get_user_data: read on fd 24
+System Error: get_user_data: read:Broken pipe
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+³ÌÊ½: inherit/room/room.c:20
+Îï¼ş: /d/xiangyang/majiu
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:99
+chat()                    inherit/char/npc.c:206
+<function>()              (<function>):0
+random_move()             inherit/char/npc.c:234
+command_hook()            feature/command.c:58
+main()                    cmds/std/go.c:96
+create()                  d/xiangyang/majiu.c:37
+setup()                   inherit/room/room.c:213
+reset()                   inherit/room/room.c:64
+make_inventory()          inherit/room/room.c:20
+
+Heart beat in /d/xiangyang/npc/poorman#3341 turned off.
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+get_passwd()              adm/daemons/logind.c:408
+reconnect()               adm/daemons/logind.c:956
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+get_user_data: read on fd 9
+System Error: get_user_data: read:Connection reset by peer
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:112
+heal_up()                 feature/damage.c:244
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Heart beat in /clone/user/user#3259 turned off.
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+get_passwd()              adm/daemons/logind.c:408
+reconnect()               adm/daemons/logind.c:956
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 3 to message()
+Expected: string or array or object Got: 0.
+³ÌÊ½: adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+Îï¼ş: /adm/obj/simul_efun
+º¯Êıºô½Ğ»ØËİ:
+heart_beat()              inherit/char/char.c:112
+heal_up()                 feature/damage.c:244
+message_vision()          adm/simul_efun/message.c(adm/obj/simul_efun.c):28
+
+Heart beat in /clone/user/user#3259 turned off.
+get_user_data: read on fd 16
+System Error: get_user_data: read:Connection reset by peer
+Ö´ĞĞÊ±¶Î´íÎó: *Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+³ÌÊ½: inherit/room/room.c:20
+Îï¼ş: /d/xiangyang/majiu
+º¯Êıºô½Ğ»ØËİ:
+reset()                   inherit/room/room.c:64
+make_inventory()          inherit/room/room.c:20
+
+get_user_data: read on fd 15
+System Error: get_user_data: read:Connection reset by peer
+Ö´ĞĞÊ±¶Î´íÎó: *F_SKILL: No such skill (juehu-shou)
+³ÌÊ½: feature/skill.c:39
+Îï¼ş: /u/zzt/npc/robber2#5038 ("[1;37m½Ù·Ë[2;37;0m")
+º¯Êıºô½Ğ»ØËİ:
+to_rob()                  feature/cart.c:182
+do_change()               u/zzt/npc/robber2.c:67
+set_skill()               feature/skill.c:39
+
+Ö´ĞĞÊ±¶Î´íÎó: *F_SKILL: No such skill (juehu-shou)
+³ÌÊ½: feature/skill.c:39
+Îï¼ş: /u/zzt/npc/robber2#5077 ("[1;37m½Ù·Ë[2;37;0m")
+º¯Êıºô½Ğ»ØËİ:
+to_rob()                  feature/cart.c:182
+do_change()               u/zzt/npc/robber2.c:67
+set_skill()               feature/skill.c:39
+
+Ö´ĞĞÊ±¶Î´íÎó: *F_SKILL: No such skill (juehu-shou)
+³ÌÊ½: feature/skill.c:39
+Îï¼ş: /u/zzt/npc/robber2#5086 ("[1;37m½Ù·Ë[2;37;0m")
+º¯Êıºô½Ğ»ØËİ:
+to_rob()                  feature/cart.c:182
+do_change()               u/zzt/npc/robber2.c:67
+set_skill()               feature/skill.c:39
+
+Ö´ĞĞÊ±¶Î´íÎó: *F_SKILL: No such skill (zhaixingshu)
+³ÌÊ½: feature/skill.c:39
+Îï¼ş: /u/zzt/npc/robber3#5094 ("[1;37m½Ù·Ë[2;37;0m")
+º¯Êıºô½Ğ»ØËİ:
+to_rob()                  feature/cart.c:182
+do_change()               u/zzt/npc/robber3.c:71
+set_skill()               feature/skill.c:39
+
+Ö´ĞĞÊ±¶Î´íÎó: *F_SKILL: No such skill (zhaixingshu)
+³ÌÊ½: feature/skill.c:39
+Îï¼ş: /u/zzt/npc/robber3#5105 ("[1;37m½Ù·Ë[2;37;0m")
+º¯Êıºô½Ğ»ØËİ:
+to_rob()                  feature/cart.c:182
+do_change()               u/zzt/npc/robber3.c:71
+set_skill()               feature/skill.c:39
+
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+]ÄúÒª½«ÁíÒ»¸öÁ¬ÏßÖĞµÄÏàÍ¬ÈËÎï¸Ï³öÈ¥£¬È¡¶ø´úÖ®Âğ£¿(y/n)]ÿùSystem Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
+System Error: flush_message: write:Broken pipe
